@@ -373,7 +373,7 @@
 
 | Group | PI(s) | Affiliation | Notable Works |
 |-------|--------|-------------|---------------|
-| **Tsinghua FIB Lab** | Yong Li | Tsinghua University | AgentSociety, EconAgent, S³, TwinMarket |
+| **Tsinghua FIB Lab** | Yong Li | Tsinghua University | AgentSociety, EconAgent, S³|
 | **Fudan DISC** | Zhongyu Wei | Fudan University | SocioVerse, FUSE, EcoLANG, Social Movement Sim |
 | **RUC YuLan Team** | Ji-Rong Wen, Rui Yan, Xu Chen | Renmin University | YuLan-OneSim, RecAgent, Fake News dynamics |
 | **KAUST CAMEL Team** | Guohao Li | KAUST | CAMEL, OASIS, Trust behaviors |
