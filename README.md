@@ -208,6 +208,14 @@
 
 ### Finance & Economics
 
+- **[2026.05] Agent Bazaar: Enabling Economic Alignment in Multi-Agent Marketplaces** `[application]` `[finance]` `[🔥 new]`
+  Seth Karten et al. [[Paper](https://arxiv.org/abs/2605.17698)]
+  > Evaluates economic alignment in LLM-agent marketplaces, focusing on market stability and integrity under price-instability crashes and Sybil deception in lemon markets.
+
+- **[2025.07] LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra** `[application]` `[finance]` `[open-source]`
+  Seth Karten et al. [[Paper](https://arxiv.org/abs/2507.15815)] [[Code](https://github.com/sethkarten/LLM-Economist)]
+  > Simulates Census-calibrated worker agents choosing labor supply while a planner agent uses in-context reinforcement learning to design marginal tax schedules.
+
 - **[2025.02] TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets** `[platform]` `[application]` `[finance]`  
   [[Paper](https://arxiv.org/abs/2502.01506)] [[Code](http://tobyyang7.github.io/TwinMarket)]  
   > The main financial market simulation paper in the group's reading list.
