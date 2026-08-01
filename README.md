@@ -262,6 +262,12 @@
 - **[2023.06] RecAgent: User Behavior Simulation with LLM-based Agents** `[application]` `[user modeling]`  
   Wang et al. (RUC). [[Paper](https://arxiv.org/abs/2306.02552)]
 
+### Education
+
+- **[2026.06] EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation** `[application]` `[education]` `[open-source]` `[🔥 new]`  
+  Lin, Yu, Zeng, Zhong. *ICML 2026*. [[Paper](https://arxiv.org/abs/2606.07948)] [[Project](https://edumirror.net/)]  
+  > Value-driven multi-agent simulation of educational social dynamics, grounded in social value and intrinsic motivation.
+
 ### Urban
 
 - **[2025.10] SimCity: Multi-Agent Urban Development Simulation with Rich Interactions** `[application]` `[urban]`  
@@ -277,6 +283,10 @@
 ## 🧠 Agent Architecture & Emergence
 
 ### Foundational Architecture
+
+- **[2024.12] Simulating Human-like Daily Activities with Desire-driven Autonomy** `[arch]` `[application]` `[open-source]`  
+  Wang, Chen, Zhong et al. *ICLR 2025*. [[Paper](https://openreview.net/forum?id=3ms8EQY7f8)] [[Project](https://sites.google.com/view/desire-driven-autonomy)] [[Code](https://github.com/zfw1226/D2A)]  
+  > Desire-driven autonomy architecture for simulating human-like daily activities in text-based environments.
 
 - **[2024.11] Generative Agent Simulations of 1,000 People** — Park et al. (Stanford). [[Paper](https://arxiv.org/abs/2411.10109)]  
   > The follow-up to Smallville, validating interview-grounded agent personas at scale. See also: Benchmarks section.
@@ -294,6 +304,14 @@
   > Sets the baseline for what single-agent social cognition LLMs can and cannot do.
 
 ### Emergence & Collective Behavior
+
+- **[2026.03] How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation** `[arch]` `[alignment]` `[open-source]` `[🔥 new]`  
+  Liao, Tang, Zhou et al. *ACL 2026*. [[Paper](https://arxiv.org/abs/2603.13876)] [[Code](https://github.com/MoralAgentSim/RoleModel-Moral-Sim)]  
+  > Studies how exemplar-driven role-model learning shapes collective morality in multi-agent simulation.
+
+- **[2025.09] Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution** `[application]` `[alignment]` `[open-source]`  
+  Zhou, Tang, Bi et al. *ACL 2026*. [[Paper](https://arxiv.org/abs/2509.17703)] [[Code](https://github.com/MoralAgentSim/social-evol-sim)]  
+  > Simulates prehistoric hunter-gatherer societies to study moral evolution with LLM-based agents.
 
 - **[2025.08] Simulating Generative Social Agents via Theory-Informed Workflow Design** `[arch]`  
   [[Paper](https://arxiv.org/abs/2508.08726)]  
@@ -331,11 +349,19 @@
 
 ### Alignment × Social Simulation
 
+- **[2026.03] Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions** `[arch]` `[alignment]` `[open-source]` `[🔥 new]`  
+  Lin, Zhang, Yang et al. *AAMAS 2026 Oral*. [[Paper](https://arxiv.org/abs/2603.13890)] [[Project](https://asvo-agents.github.io/ASVO-agents/)] [[Code](https://github.com/jingzhe-lin/ASVO)]  
+  > Models social-oriented motivation with Social Value Orientation theory for human-like multi-agent interactions.
+
 - **[2024] Training Socially Aligned Language Models on Simulated Social Interactions** `[application]` `[alignment]`  
   Liu, Yang, Zhang et al. *ICLR 2024*. [[Paper](https://openreview.net/forum?id=NddKiWtdUm)]  
   > Feedback loop: use social simulation to generate training data for better-aligned LLMs.
 
 ### Games & Social Simulation
+
+- **[2024.12] Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy** `[games]` `[application]`  
+  Guan, Kong, Zhong, Wang. *NeurIPS 2024*. [[Paper](https://openreview.net/forum?id=7Jb4NJS8Yk)] [[Project](https://sites.google.com/view/richelieu-diplomacy)]  
+  > Self-evolving LLM-based agents for the social-strategic game of Diplomacy via self-play.
 
 - **[2024.01] CivRealm: A Learning and Reasoning Odyssey in Civilization for Decision-Making Agents** `[platform]` `[games]`  
   [[Paper](https://arxiv.org/abs/2401.10568)] [[Code](https://github.com/bigai-ai/civrealm)] — BIGAI
