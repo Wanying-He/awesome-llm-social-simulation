@@ -295,6 +295,10 @@
 
 ### Emergence & Collective Behavior
 
+- **[2026.04] Frame Entrepreneurs in an AI Agent Community: Concentrated Identity-Claim Production on Moltbook** `[application]`\
+  Cha and Kim. *ASA 2026 CITAMS Roundtable*. [[Paper](https://arxiv.org/abs/2604.27271)]\
+  > Observational study of an open AI-agent community: analyzes 1,706 Moltbook posts and finds that a small subset of authors produces most strong identity claims. Provides empirical context for interpreting collective-identity emergence in LLM agent societies.
+
 - **[2025.08] Simulating Generative Social Agents via Theory-Informed Workflow Design** `[arch]`  
   [[Paper](https://arxiv.org/abs/2508.08726)]  
   > Applies structured social science theory to agent workflow design rather than ad-hoc prompting.
