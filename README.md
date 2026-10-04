@@ -145,6 +145,10 @@
 
 ### Benchmarks
 
+- **[2026.10] When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses** `[benchmark]` `[open-source]` `[🔥 new]`  
+  Chen, Zhu, Zheng. [[Paper](https://arxiv.org/abs/2607.26348)] [[Code](https://github.com/ZihanChen1995/when-synthetic-users-fail-a-cross-domain-benchmark-of-llm-simulated-human-survey-responses)]  
+  > Benchmarks four LLMs against non-LLM baselines on GSS and WVS survey responses. Under the tested demographic-prompting protocols, no LLM outperforms the strongest baseline at individual prediction, and models exaggerate demographic–attitude relationships.
+
 - **[2025.12] SoMe: A Realistic Benchmark for LLM-based Social Media Agents** `[benchmark]` `[🔥 new]`  
   [[Paper](https://arxiv.org/abs/2512.14720)]  
   > 8 agentic social media tasks. 154 trending topic events from Nov–Jan 2024/25. Measures multi-round information acquisition, event analysis, and social media reasoning.
