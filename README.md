@@ -85,6 +85,22 @@
 
 ### Validation-Focused Critical Work
 
+- **[2026.07] Challenging the Myth: A Research Arc on LLMs as Human Simulacra** `[position]` `[critique]` `[🔥 new]`  
+  Münker, Rettinger, Trilling. *The Big Picture v2 Workshop @ ACL 2026*. [[Paper](https://aclanthology.org/2026.bigpicture-main.4/)]  
+  > Synthesizes a research arc on LLMs as human proxies across psychometric surveys and social media simulation. Documents inhuman response patterns in psychometric assessments and detectable synthetic content, and reframes the question from "can LLMs replace humans?" to "under what validated conditions might LLMs serve as useful research components?"
+
+- **[2026.05] Next Reply Prediction X (NRP-X) Dataset: Linguistic Discrepancies in Naively Generated Content** `[benchmark]` `[validated]` `[🔥 new]`  
+  Münker, Schwager, Kugler, Heseltine, Rettinger. *LLMs4SSH Workshop @ LREC 2026*. [[Paper](https://aclanthology.org/2026.llms4ssh-1.5/)]  
+  > Introduces a history-conditioned reply prediction task on authentic X (Twitter) data and compares LLM-generated replies to human ones with stylistic and content-based metrics, quantifying the linguistic discrepancies of naively prompted synthetic content.
+
+- **[2026.03] Don't Trust Generative Agents to Mimic Communication on Social Networks Unless You Benchmarked their Empirical Realism** `[critique]` `[validated]` `[🔥 new]`  
+  Münker, Schwager, Rettinger. *EACL 2026*. [[Paper](https://aclanthology.org/2026.eacl-long.51/)]  
+  > Provides a formal framework for social network simulation and empirically tests approaches to imitating user communication on X in English and German. Argues that simulations should be validated by their empirical realism, measured in the setting in which the simulation components were fitted.
+
+- **[2026.03] Towards Simulating Social Media Users with LLMs: Evaluating the Operational Validity of Conditioned Comment Prediction** `[benchmark]` `[validated]` `[🔥 new]`  
+  Schwager, Münker, Plum, Rettinger. *WASSA Workshop @ EACL 2026*. [[Paper](https://aclanthology.org/2026.wassa-1.16/)]  
+  > Introduces Conditioned Comment Prediction (CCP): predicting how a specific user would comment on a stimulus, scored against their authentic digital traces. Across English, German, and Luxembourgish, finds that supervised fine-tuning aligns surface form but degrades semantic grounding in low-resource settings, and that explicit biographies become redundant under fine-tuning as models infer directly from behavioral histories.
+
 - **[2026.01] Validation is the Central Challenge for Generative Social Simulation** `[critique]` `[survey]` `[🔥 new]`  
   *Artificial Intelligence Review* (Epub Nov 2025). [[Paper](https://link.springer.com/article/10.1007/s10462-025-11412-6)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41268053/)]  
   > Published in a major AI journal — will likely become the canonical validation critique. Central finding: LLMs may **exacerbate** rather than alleviate ABM's longstanding validation problems due to black-box structure, cultural biases, and stochastic outputs. Proposes three-part yardstick: (1) purpose alignment, (2) external grounding, (3) robustness. Essential reading for any eval-focused work.
